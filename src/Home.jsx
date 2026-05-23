@@ -1,10 +1,9 @@
-import Navbar from "./Navbar"
-import HeroSection from "./HeroSection"
-import TrustSection from "./TrustSection"
 import FeaturesSection from "./FeaturesSection"
-import TestimonialsSection from "./TestimonialsSection"
+import HeroSection from "./HeroSection"
+import Navbar from "./Navbar"
 import SecuritySection from "./SecuritySection"
-import Footer from "./Footer"
+import TestimonialsSection from "./TestimonialsSection"
+import TrustSection from "./TrustSection"
 
 
 function Home() {
