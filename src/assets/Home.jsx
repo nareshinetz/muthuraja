@@ -14,9 +14,9 @@ function Home() {
             <HeroSection />
             <TrustSection />
             <FeaturesSection />
-             <TestimonialsSection />
-             <SecuritySection />
-             <Footer />
+            <TestimonialsSection />
+            <SecuritySection />
+            <Footer />
         </div>
     )
 }
