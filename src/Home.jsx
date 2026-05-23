@@ -1,4 +1,5 @@
 import FeaturesSection from "./FeaturesSection"
+import Footer from "./Footer"
 import HeroSection from "./Herosection"
 import Navbar from "./Navbar"
 import SecuritySection from "./SecuritySection"
