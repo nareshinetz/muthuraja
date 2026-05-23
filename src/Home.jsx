@@ -1,5 +1,5 @@
 import FeaturesSection from "./FeaturesSection"
-import HeroSection from "./HeroSection"
+import HeroSection from "./Herosection"
 import Navbar from "./Navbar"
 import SecuritySection from "./SecuritySection"
 import TestimonialsSection from "./TestimonialsSection"
